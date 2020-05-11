@@ -1,7 +1,7 @@
 [   
     {
         "regione": "All",
-		"total" : 3796,
+		"total" : 3805,
 		"sub_regione" : [
                          { 
                             "provincia" : "ABRUZZO",
@@ -820,7 +820,7 @@
 	},
 	{
         "regione": "TOSCANA",
-		"total" : 775,
+		"total" : 774,
         "sub_regione" : [
                             { 
                                 "provincia" : "AREZZO",
@@ -831,7 +831,7 @@
                             },
                             { 
                                 "provincia" : "FIRENZE",
-                                "terra" : 13,
+                                "terra" : 12,
                                 "marre" : 0,
                                 "acqua_interne" : 0,
                                 "non_indicato" : 0
@@ -884,7 +884,7 @@
 		"min_quota" : 0,
 		"max_prof" : 7810,
 		"min_prof" : 0,
-		"terra" : 774,
+		"terra" : 773,
 		"marre" : 0,
 		"acqua_interne" : 1, 
 		"non_indicato" : 0
